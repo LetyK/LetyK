@@ -1,6 +1,6 @@
 ### Olá, Eu sou a Lety!!
 
-👩‍💻 Olá! Eu sou uma estudante de Engenharia da Computação no meu quarto período da faculdade. apaixonada por desenvolvimento front-end.Sou uma estudante de Engenharia da Computação apaixonada pelo universo do Front-End
+👩‍💻 Olá! Eu sou uma estudante de Engenharia da Computação no meu quarto período da faculdade. apaixonada por desenvolvimento front-end.
 
 ### Hobbies
 
